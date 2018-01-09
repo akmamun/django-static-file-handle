@@ -1,5 +1,6 @@
 # Django Static File Handle
-In Django, For Static File handling add those line of code in settings.py and urls.py
+* Used Django 1.11
+* In Django, For Static File handling add those line of code in settings.py and urls.py
 
 # settings.py
 At the end of setting.py add those lines
